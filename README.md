@@ -14,3 +14,6 @@ output dir: <code>target\clipboard-printer-1.0-SNAPSHOT-jar-with-dependencies.ja
 
 ### Run
 <code>java -jar clipboard-printer-1.0-SNAPSHOT-jar-with-dependencies.jar</code>
+
+### Artifacts
+[DOWNLOAD JAR (PoC)](https://github.com/kostkol87/clipboard-printer/releases/download/release/clipboard-printer-1.0-SNAPSHOT-jar-with-dependencies.jar)
