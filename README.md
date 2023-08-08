@@ -12,5 +12,5 @@ Just copy text to clipboard and press **CTRL+I** insted of deafult insert. May b
 <code>mvn clean package</code><br>
 output dir: <code>target\clipboard-printer-1.0-SNAPSHOT-jar-with-dependencies.jar</code>
 
-###Run
+### Run
 <code>java -jar clipboard-printer-1.0-SNAPSHOT-jar-with-dependencies.jar</code>
